@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+
+  "name": "Grayscale",
+  "description": "This extension turns all webpages grey.",
+  "version": "0.1.0",
+
+  "browser_action": {
+    "TODO_default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["http://*/*", "https://*/*"],
+      "css": ["content_styles.css"],
+      "js": ["content_script.js"]
+    }
+  ],
+  "permissions": [
+    "activeTab",
+    "https://ajax.googleapis.com/"
+  ]
+}
