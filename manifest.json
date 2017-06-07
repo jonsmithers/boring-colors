@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "Grayscale",
-  "description": "This extension turns all webpages grey.",
+  "description": "This extension rids the internet of eye-popping colors and makes it a world of boring gray.",
   "version": "0.1.0",
 
   "browser_action": {
