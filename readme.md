@@ -1,2 +1,5 @@
-This chrome extension rids the internet of eye-popping colors and turns it
-into a world of boring gray.
+Rid the internet of eye-popping colors and transform it into a drab world of
+sprawling grays.
+
+This Chrome extension can be installed
+[**here**](https://chrome.google.com/webstore/detail/boring-colors/klolbbenemkhaahopnhkgconikpdimbp)
