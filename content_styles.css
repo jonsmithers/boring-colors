@@ -1,11 +1,7 @@
-body {
+body[enable-boring-colors] {
   filter: grayscale(100%);
 }
 
-img {
-  filter: grayscale(100%);
-}
-
-iframe {
+body[enable-boring-colors] iframe {
   display: none;
 }
