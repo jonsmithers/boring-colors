@@ -3,7 +3,7 @@
 
   "name": "Boring Colors",
   "description": "Rid the internet of eye-popping colors and transform it into a drab world of sprawling grays.",
-  "version": "0.1.0",
+  "version": "0.1.1",
 
   "browser_action": {
     "default_popup": "popup.html"
