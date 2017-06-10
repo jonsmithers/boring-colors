@@ -1,7 +1,7 @@
 chrome.storage.local.get("isGrayscaleEnabled", ({isGrayscaleEnabled}) => {
 
   function updateButtonText() {
-    document.querySelector("#toggleBtn").innerText = isGrayscaleEnabled ? "disable" : "enable";
+    document.querySelector("#toggleBtn").innerText = isGrayscaleEnabled ? "Disable" : "Enable";
   }
 
   updateButtonText();
